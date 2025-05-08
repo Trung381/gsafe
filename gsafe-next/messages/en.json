@@ -1,0 +1,57 @@
+{
+  "home": {
+    "title": "Welcome to GSAFE",
+    "subtitle": "Your trusted security solution",
+    "features": {
+      "title": "Our Security Solutions",
+      "protection": "Complete Protection",
+      "protectionDesc": "Our comprehensive security system provides 24/7 protection for your home or business.",
+      "advanced": "Advanced Security",
+      "advancedDesc": "State-of-the-art encryption and security protocols to keep your property safe.",
+      "alerts": "Instant Alerts",
+      "alertsDesc": "Receive immediate notifications on your device when any unusual activity is detected."
+    },
+    "cta": {
+      "title": "Ready to Secure Your Property?",
+      "subtitle": "Join thousands of satisfied customers who trust GSAFE for their security needs."
+    }
+  },
+  "common": {
+    "buttons": {
+      "learnMore": "Learn More",
+      "getStarted": "Get Started",
+      "contactUs": "Contact Us"
+    },
+    "navigation": {
+      "home": "Home",
+      "devices": "Devices",
+      "purchase": "Purchase",
+      "contact": "Contact"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "placeholders": {
+        "name": "Your name",
+        "email": "Your email address",
+        "message": "Your message"
+      },
+      "subjects": {
+        "general": "General Inquiry",
+        "support": "Technical Support",
+        "sales": "Sales",
+        "feedback": "Feedback"
+      }
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    }
+  }
+} 

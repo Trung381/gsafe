@@ -1,0 +1,57 @@
+{
+  "home": {
+    "title": "Chào mừng đến với GSAFE",
+    "subtitle": "Giải pháp bảo mật đáng tin cậy của bạn",
+    "features": {
+      "title": "Giải pháp Bảo mật của Chúng tôi",
+      "protection": "Bảo vệ Toàn diện",
+      "protectionDesc": "Hệ thống bảo mật toàn diện của chúng tôi cung cấp bảo vệ 24/7 cho nhà hoặc doanh nghiệp của bạn.",
+      "advanced": "Bảo mật Nâng cao",
+      "advancedDesc": "Mã hóa và giao thức bảo mật tiên tiến để giữ an toàn cho tài sản của bạn.",
+      "alerts": "Cảnh báo Tức thì",
+      "alertsDesc": "Nhận thông báo ngay lập tức trên thiết bị của bạn khi phát hiện bất kỳ hoạt động bất thường nào."
+    },
+    "cta": {
+      "title": "Sẵn sàng Bảo vệ Tài sản của Bạn?",
+      "subtitle": "Tham gia cùng hàng ngàn khách hàng hài lòng đã tin tưởng GSAFE cho nhu cầu bảo mật của họ."
+    }
+  },
+  "common": {
+    "buttons": {
+      "learnMore": "Tìm hiểu thêm",
+      "getStarted": "Bắt đầu",
+      "contactUs": "Liên hệ"
+    },
+    "navigation": {
+      "home": "Trang chủ",
+      "devices": "Thiết bị",
+      "purchase": "Mua hàng",
+      "contact": "Liên hệ"
+    }
+  },
+  "contact": {
+    "title": "Liên hệ Chúng tôi",
+    "form": {
+      "name": "Họ tên",
+      "email": "Email",
+      "subject": "Chủ đề",
+      "message": "Tin nhắn",
+      "placeholders": {
+        "name": "Tên của bạn",
+        "email": "Địa chỉ email của bạn",
+        "message": "Tin nhắn của bạn"
+      },
+      "subjects": {
+        "general": "Thắc mắc Chung",
+        "support": "Hỗ trợ Kỹ thuật",
+        "sales": "Bán hàng",
+        "feedback": "Phản hồi"
+      }
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Điện thoại",
+      "address": "Địa chỉ"
+    }
+  }
+} 
